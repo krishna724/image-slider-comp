@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.cacb73db.css",
-    "main.js": "/static/js/main.592830bb.js",
-    "static/js/453.5e9d3155.chunk.js": "/static/js/453.5e9d3155.chunk.js",
-    "index.html": "/index.html",
-    "main.cacb73db.css.map": "/static/css/main.cacb73db.css.map",
-    "main.592830bb.js.map": "/static/js/main.592830bb.js.map",
-    "453.5e9d3155.chunk.js.map": "/static/js/453.5e9d3155.chunk.js.map"
+    "main.css": "/mage-slider-comp/static/css/main.cacb73db.css",
+    "main.js": "/mage-slider-comp/static/js/main.49f9fdfc.js",
+    "static/js/453.5e9d3155.chunk.js": "/mage-slider-comp/static/js/453.5e9d3155.chunk.js",
+    "index.html": "/mage-slider-comp/index.html",
+    "main.cacb73db.css.map": "/mage-slider-comp/static/css/main.cacb73db.css.map",
+    "main.49f9fdfc.js.map": "/mage-slider-comp/static/js/main.49f9fdfc.js.map",
+    "453.5e9d3155.chunk.js.map": "/mage-slider-comp/static/js/453.5e9d3155.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.cacb73db.css",
-    "static/js/main.592830bb.js"
+    "static/js/main.49f9fdfc.js"
   ]
 }
